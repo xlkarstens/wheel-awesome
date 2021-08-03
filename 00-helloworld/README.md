@@ -11,6 +11,7 @@
 [findream](https://github.com/224137748)
 [encorehe](https://github.com/encorehe)
 [mcdu11](https://github.com/mcdu11)
+[惟愿](https://github.com/xlkarstens)
 
 ## 运行步骤
 
